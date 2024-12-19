@@ -1,0 +1,3 @@
+- リスト(rappers_with_spotify_ids.csv)のラッパーの楽曲全てをrappers_tracks.csvに保存、年度情報を追加
+- リストのラッパーの情報全てをrappers_info.csvに保存
+- featured_tracksに修正後のフィーチャリング情報を追加
